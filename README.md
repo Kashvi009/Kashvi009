@@ -1,6 +1,11 @@
 # 💫 About Me:
-🎓 Pursuing B.Tech in Information Technology from Guru Gobind Singh Indraprastha University, New Delhi<br>🌱 Nowadays working on Product Management<br>🌴 Currently learning Cloud Computing, DSA, and AI/ML<br>👯‍♂️ Open to collaborate on Open Source Projects<br>⚡ Fun fact about me: I'm always super hyperactive, and my decisions heavily depend on my mood—which changes as unpredictably as code updates!<br>
-
+🎓 Pre-Final Year B.Tech (Information Technology) Student <br>
+✨ Tech × Creativity | Building ideas into impact <br>
+☁️ Into product management, SaaS marketing & AI/ML <br>
+🚀 Active in Hackathons — Mentored & Judged multiple national-level hackathons and innovation challenges <br>
+🏆 Collaborated with diverse tech communities, guiding teams from ideation to execution <br>
+🤝 Open to Open Source, Tech Collaborations & Community Building <br>
+⚡ Fun fact: Super hyperactive — my mood updates faster than software versions 😄
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kiyraaaaa_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kashvi15/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://ca.pinterest.com/diariesofkashvi/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Kashvi-Arora-17) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/KashviArora24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arorakashvi15@gmail.com) 
